@@ -18,7 +18,7 @@
 <v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
-<v t="amd.20151215180106.1"><vh>設定與開發</vh>
+<v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="amd.20151216151325.1" a="E"><vh>@clean index.html</vh>
 <v t="amd.20161004083800.1" a="E"><vh>html</vh>
 <v t="amd.20161004083800.2"><vh>head</vh></v>
@@ -28,10 +28,11 @@
 <v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20161114230143.1"><vh>newHeadline</vh></v>
 <v t="yen.20161016023122.1" a="E"><vh>快捷鍵</vh>
 <v t="yen.20161016023122.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="amd.20161004104820.1"><vh>三大主題教學</vh>
+<v t="amd.20161004104820.1" a="E"><vh>三大主題教學</vh>
 <v t="amd.20161004104641.1" a="E"><vh>主題教學</vh>
 <v t="amd.20161004104641.2"><vh>計算機程式在教什麼?</vh></v>
 </v>
@@ -47,14 +48,14 @@
 <v t="yen.20161011114704.1" a="E"><vh>創造力</vh>
 <v t="yen.20161011114704.2"><vh>何謂創造力?</vh></v>
 </v>
-<v t="yen.20161011121637.1"><vh>所謂自學</vh>
+<v t="yen.20161011121637.1" a="E"><vh>所謂自學</vh>
 <v t="yen.20161011121637.2"><vh>自學的訓練</vh></v>
 </v>
-<v t="amd.20161004105716.1"><vh>執行力</vh>
+<v t="amd.20161004105716.1" a="E"><vh>執行力</vh>
 <v t="amd.20161004105716.2"><vh>高效執行力</vh></v>
 </v>
 </v>
-<v t="yen.20161016004633.1"><vh>CP 課程倉儲</vh>
+<v t="yen.20161016004633.1" a="E"><vh>CP 課程倉儲</vh>
 <v t="yen.20161016004633.4"><vh>課程時段與規劃</vh>
 <v t="yen.20161016004633.5"><vh>規劃、Wiki 與網誌</vh></v>
 </v>
@@ -65,7 +66,7 @@
 <v t="yen.20161016012922.1"><vh>下載可攜程式環境</vh></v>
 </v>
 </v>
-<v t="yen.20161011122932.1"><vh>自學力訓練</vh>
+<v t="yen.20161011122932.1" a="E"><vh>自學力訓練</vh>
 <v t="yen.20161011122601.1" a="E"><vh>自學的材料</vh>
 <v t="yen.20161011122601.2"><vh>自學 Python3</vh></v>
 </v>
@@ -79,7 +80,7 @@
 <v t="yen.20161011124118.2"><vh>Python 2 或 3?</vh></v>
 </v>
 </v>
-<v t="yen.20161011125115.1"><vh>執行力訓練</vh>
+<v t="yen.20161011125115.1" a="E"><vh>執行力訓練</vh>
 <v t="yen.20161016011920.1" a="E"><vh>程式練習主題</vh>
 <v t="yen.20161016011920.2"><vh>程式專題</vh></v>
 </v>
@@ -96,7 +97,7 @@
 <v t="yen.20161016012402.2"><vh>網際遊戲</vh></v>
 </v>
 </v>
-<v t="yen.20161011143808.1"><vh>協同力訓練</vh>
+<v t="yen.20161011143808.1" a="E"><vh>協同力訓練</vh>
 <v t="yen.20161011143808.2" a="E"><vh>Github 帳號</vh>
 <v t="yen.20161011143808.3"><vh>Github 倉儲網頁</vh></v>
 </v>
@@ -133,7 +134,7 @@
 <v t="yen.20161011150901.2"><vh>網際動畫範例</vh></v>
 </v>
 </v>
-<v t="yen.20161016012809.1"><vh>各式內容引用範例</vh>
+<v t="yen.20161016012809.1" a="E"><vh>各式內容引用範例</vh>
 <v t="yen.20161016012809.2" a="E"><vh>導入數學符號與方程式</vh>
 <v t="yen.20161016012809.3"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -219,7 +220,7 @@ print("hello")
 <t tx="amd.20161004083800.2">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;    
-2016 Fall 計算機程式課程
+2016 Fall 
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -298,7 +299,7 @@ print("hello")
 
 						
 </t>
-<t tx="amd.20161004095719.2"># 2016Fall 計算機程式課程
+<t tx="amd.20161004095719.2"># 許凱翔的計算機程式課程
 
 ### 虎科大機械設計工程系
 
@@ -306,11 +307,12 @@ print("hello")
 Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
 
+[wiki](https://github.com/s40523128/2016fallcp_hw/wiki)
+
+[kai vimo](https://vimeo.com/user58915578)
+
 [甲班計算機程式課程網誌](blog/index.html)
 
-[乙班計算機程式課程網誌](https://mdecourse.github.io/2016fallcpb/blog)
-
-[計算機程式教學影片](https://vimeo.com/user24079973)
 
 [電腦輔助設計室電腦硬體](http://project.mde.tw/blog/yen-dian-nao-fu-zhu-she-ji-shi-dian-nao-pei-zhi.html)
 </t>
@@ -476,6 +478,12 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 <t tx="leo.20151213230957.1"># 設定網誌以 md 檔案建立的 file system date 為準, 無需自行設定
 
 DEFAULT_DATE = 'fs'</t>
+<t tx="leo.20161114230143.1">&lt;section&gt;
+    &lt;h2&gt;&lt;/h2&gt;
+    &lt;iframe src="https://player.vimeo.com/video/191004549" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/191004549"&gt;2016-11-10_20-06-29&lt;/a&gt; from &lt;a href="https://vimeo.com/user58915578"&gt;kai&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.
+&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="yen.20161011114704.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
